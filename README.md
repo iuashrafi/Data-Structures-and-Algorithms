@@ -22,3 +22,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 ## Linked Lists
 ## Strings
 ## Bits Manipulation
+
+## Trees
+1. **Traversals**
+  - [ ] [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
