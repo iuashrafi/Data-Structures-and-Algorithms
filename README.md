@@ -12,6 +12,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 
 ### Sliding window/ Subarrays / Substrings
   - [ ]  [Subarray with Given Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/)
+  - [ ]  [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)  #easy #based_on_topic
   - [ ]  [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
   - [ ]  [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
   - [ ]  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
