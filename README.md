@@ -31,7 +31,27 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
   - [ ] [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
 
 ## Graphs
-- [ ] Find Town Judge
+- [ ] [Find the town judge](https://leetcode.com/problems/find-the-town-judge)
+- [ ] [Word Ladder](https://leetcode.com/problems/word-ladder)
+- [ ] [Word Ladder II](https://leetcode.com/problems/word-ladder-ii)
+- [ ] [Number of islands]
+- [ ] [Course Schedule]
+- [ ] [Course Schedule II]
+- [ ] [0 1 Matrix]
+- [ ] [Max Area of Island]
+- [ ] [Is Graph Bipartite?]
+- [ ] [Cheapest Flights Within K Stops]
+- [ ] [All Paths From Source to Target]
+- [ ] [Find Eventual Safe States]
+- [ ] [Snakes and Ladders]
+- [ ] [Rotting Oranges]
+- [ ] [Number of Enclaves]
+- [ ] [Shortest Path in Binary Matrix]
+- [ ] [Path With Minimum Effort]
+- [ ] [Number of Ways to Arrive at Destination]
+- [ ] [Find All Possible Recipies from Given Supplies]
+- [ ] [Number of Good Paths]
+- [ ] ...
 
 ## Dynammic Programming
 - [ ] Fibonacci 
