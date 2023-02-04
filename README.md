@@ -11,7 +11,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 ### Matrices
 
 ### Sliding window/ Subarrays / Substrings
-  - [ ]  [Subarray with Given Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/)
+  - [ ]  [Subarray with Given Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
   - [ ]  [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)  #easy #based_on_topic
   - [ ]  [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) #easy-medium
   - [ ]  [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) #medium-hard
@@ -57,9 +57,29 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] ...
 
 ## Dynammic Programming
-- [ ] Fibonacci 
-- [ ] Tribonacci
-- [ ] Coming Soon....
+- [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [ ] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-43022/1)
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
  
 ## Bits Manipulation
 
