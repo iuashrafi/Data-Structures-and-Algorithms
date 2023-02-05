@@ -6,6 +6,8 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 
 ### Prefix Sum
   - [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  topics -  prefix sum, hashmap
+  - [ ] [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
+  - [ ] []()
 ### Intervals
 
 ### Matrices
@@ -18,9 +20,10 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
   - [ ]  [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
   - [ ]  [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
   - [ ]  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-  - [ ]  [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
-
-  - [ ]  
+  - [ ]  [Longest K unique characters substring](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)
+  - [ ]  [Longest substring with at most k distinct characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+  - [ ]  [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
+  - [ ]  [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 ## Strings
 - [ ] [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
@@ -57,13 +60,14 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] ...
 
 ## Dynammic Programming
+1. Linear Dp
 - [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [ ] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-43022/1)
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] []()
 - [ ] []()
 - [ ] []()
