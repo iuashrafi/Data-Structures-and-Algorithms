@@ -60,18 +60,18 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] ...
 
 ## Dynammic Programming
-1. Linear Dp
-- [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
-- [ ] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-43022/1)
-- [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) #linear
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) #linear
+- [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) #linear
+- [ ] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-43022/1) #linear
+- [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) #linear
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/) #linear
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/) #linear
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/) #2d
+- [ ] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) #2d
+- [ ] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
+- [ ] [Coin Change II](https://leetcode.com/problems/coin-change-ii/) #2d
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/description/) #2d #matrix
 - [ ] []()
 - [ ] []()
 - [ ] []()
