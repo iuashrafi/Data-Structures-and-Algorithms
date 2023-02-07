@@ -72,7 +72,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
 - [ ] [Coin Change II](https://leetcode.com/problems/coin-change-ii/) #2d
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/description/) #2d #matrix
-- [ ] []()
+- [ ] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) #knapsack
 - [ ] []()
 - [ ] []()
 - [ ] []()
