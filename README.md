@@ -83,6 +83,8 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] []()
 - [ ] []()
 - [ ] []()
- 
+  
+## Greedy
+- [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 ## Bits Manipulation
 
