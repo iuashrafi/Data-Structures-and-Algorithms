@@ -76,9 +76,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) #subset_sum
 - [ ] [Target Sum](https://leetcode.com/problems/target-sum/)
 - [ ] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) 
-- [ ] [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/)
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/description/)
-- [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [ ] [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/) 
 - [ ] []()
 - [ ] []()
 - [ ] []()
