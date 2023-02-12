@@ -86,7 +86,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] 
 ### DP on string
 - [X] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-- [ ] []()
+- [ ] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?page=1)
 - [ ] []()
 - [ ] []()
 - [ ] []()
