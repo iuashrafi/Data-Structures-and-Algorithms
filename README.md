@@ -83,6 +83,14 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] []()
 - [ ] []()
 - [ ] []()
+- [ ] 
+### DP on string
+- [X] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
   
 ## Greedy
 - [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
