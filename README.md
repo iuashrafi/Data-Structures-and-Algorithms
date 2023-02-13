@@ -9,6 +9,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
   - [ ] [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
   - [ ] []()
 ### Intervals
+  - [ ] [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range)
 
 ### Matrices
 
@@ -87,9 +88,9 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 ### DP on string
 - [X] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?page=1)
+- [ ] [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 - [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - [ ] []()
   
 ## Greedy
