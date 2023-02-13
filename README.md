@@ -29,6 +29,9 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 
+## Binary Search
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 ## Linked Lists
 ## Stacks
 ## Queues
