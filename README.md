@@ -91,7 +91,8 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 - [ ] []()
 - [ ] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
-- [ ] []()
+- [ ] [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)
+- [ ] 
   
 ## Greedy
 - [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
