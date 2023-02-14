@@ -2,7 +2,14 @@
 Here are some Problems on DSA that i have arranged level wise and topic wise ; and will be beneficial for complete revision.
 (NOTE: This list is not complete and will take few months to complete)
 ## Arrays
-
+### Two Pointers
+- [ ] [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [ ] [Move zeroes](https://leetcode.com/problems/move-zeroes/)
+- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) #linked-list
+- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] 
 
 ### Prefix Sum
   - [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  topics -  prefix sum, hashmap
