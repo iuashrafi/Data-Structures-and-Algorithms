@@ -95,13 +95,19 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] []()
 - [ ] []()
 - [ ] 
-### DP on string
+### LCS
 - [X] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?page=1)
 - [ ] [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 - [ ] []()
 - [ ] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - [ ] [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)
+
+### LIS
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [ ] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+- [ ] [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+- [ ] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 - [ ] 
   
 ## Greedy
