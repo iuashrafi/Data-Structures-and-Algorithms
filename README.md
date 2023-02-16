@@ -107,7 +107,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] []()
 - [ ] 
 ### LCS
-- [X] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?page=1)
 - [ ] [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 - [ ] []()
@@ -119,7 +119,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
 - [ ] [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 - [ ] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
-- [ ] 
+- [ ] [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
   
 ## Greedy
 - [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
