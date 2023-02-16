@@ -1,14 +1,15 @@
 # Data-Structures-and-Algorithms
 Here are some Problems on DSA that i have arranged level wise and topic wise ; and will be beneficial for complete revision.
 (NOTE: This list is not complete and will take few months to complete)
-## Arrays
+
 ### Two Pointers
 - [ ] [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [ ] [Move zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) #linked-list
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) #linked-list
+- [ ] 
 - [ ] 
 
 ### Prefix Sum
@@ -24,6 +25,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
   - [ ]  [Subarray with Given Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
   - [ ]  [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)  #easy #based_on_topic
   - [ ]  [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) #easy-medium
+  - [ ]  [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
   - [ ]  [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) #medium-hard
   - [ ]  [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
   - [ ]  [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
@@ -40,6 +42,8 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 ## Linked Lists
+- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [ ] 
 ## Stacks
 ## Queues
 
