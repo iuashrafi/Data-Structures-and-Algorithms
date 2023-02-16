@@ -43,9 +43,16 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 ## Linked Lists
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] 
 ## Stacks
 ## Queues
+
+
+## Recursion/Backtracking
+- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [ ] [Combinations](https://leetcode.com/problems/combinations/)
+- [ ] 
 
 ## Trees
 1. **Traversals**
