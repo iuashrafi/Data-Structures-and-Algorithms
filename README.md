@@ -55,8 +55,8 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] 
 
 ## Trees
-1. **Traversals**
   - [ ] [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
+  - [ ] [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
 ## Graphs
 - [ ] [Find the town judge](https://leetcode.com/problems/find-the-town-judge)
