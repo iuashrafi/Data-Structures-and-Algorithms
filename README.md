@@ -120,6 +120,9 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 - [ ] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 - [ ] [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
+- [ ] [Maximum Non-Overlapping Bridges](https://www.geeksforgeeks.org/dynamic-programming-building-bridges/)
+- [ ] [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+- [ ] Adding more... 
   
 ## Greedy
 - [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
