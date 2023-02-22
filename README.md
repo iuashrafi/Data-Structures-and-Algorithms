@@ -47,6 +47,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Allocate Minimum Number of Pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Solution](https://www.youtube.com/watch?v=okP-e2VpI_g)
 - [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](https://www.youtube.com/watch?v=eq6dAJefOqc&t=1138s)
 - [ ] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 
 ## Linked Lists
