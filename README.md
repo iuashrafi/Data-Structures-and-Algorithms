@@ -44,6 +44,9 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [ ] [Allocate Minimum Number of Pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Solution](https://www.youtube.com/watch?v=okP-e2VpI_g)
+- [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](https://www.youtube.com/watch?v=eq6dAJefOqc&t=1138s)
+- [ ] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 
 
 ## Linked Lists
