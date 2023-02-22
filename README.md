@@ -42,6 +42,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
 
