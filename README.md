@@ -41,6 +41,10 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 ## Binary Search
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+
+
 ## Linked Lists
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
