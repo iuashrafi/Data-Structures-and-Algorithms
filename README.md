@@ -2,6 +2,13 @@
 Here are some Problems on DSA that i have arranged level wise and topic wise ; and will be beneficial for complete revision.
 (NOTE: This list is not complete and will take few months to complete)
 
+## Arrays
+- [ ] [Maximum Subarray(Kadane's Algorithm)](https://leetcode.com/problems/maximum-subarray/) #namedAlgorithm
+- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) #prefix #hashmap or #slidingWindow
+- [ ] [Sort an array of 0s, 1s and 2s - Dutch National Flag algorithm](https://leetcode.com/problems/sort-colors/) #algorithm
+- [ ] 
+
+
 ### Two Pointers
 - [ ] [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
