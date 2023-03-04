@@ -14,19 +14,31 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/) #algorithm
 - [ ] [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) #algorithm
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) #intervals #interview
+- [ ] [Top k frequent element](https://leetcode.com/problems/top-k-frequent-elements/) #facebook
 - [ ] 
 
 
-### Two Pointers
-- [ ] [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) #twoPointers
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/) #twoPointers
+### Two Pointers - list almost completed - revision type of questions 
+- [ ] [Two Sum II- input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) #twoPointers
+- [ ] [3Sum](	https://leetcode.com/problems/3sum/description/) #twoPointers
+- [ ] [4Sum](	https://leetcode.com/problems/4sum/) #twoPointers
+- [ ] [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) #twoPointers
 - [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) #twoPointers
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) #twoPointers
-- [ ] [Move zeroes](https://leetcode.com/problems/move-zeroes/) #twoPointers
+- [ ] [Remove Duplicates from Sorted Array II](	https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) #twoPointers
+- [ ] [Container With Most water](https://leetcode.com/problems/container-with-most-water) #trappingWater
+- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) #trappingWater
+- [ ] [Next Permutation](https://leetcode.com/problems/next-permutation/) 
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) #linkedList #twoPointers
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) #linkedList #twoPointers
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) #twoPointers
-- [ ] []() #twoPointers
+- [ ] [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) #linkedList #twoPointers
+- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) #linkedList #twoPointers
+- [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) #linkedList #twoPointers
+- [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) #linkedList #twoPointers
+- [ ] [Reorder List	](https://leetcode.com/problems/reorder-list/) #linkedList #twoPointers
+- [ ] [Sort List](https://leetcode.com/problems/sort-list/) #linkedList #twoPointers
+- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) #twoPointers
+- [ ] [Move zeroes](https://leetcode.com/problems/move-zeroes/) #twoPointers
+
 
 ### Prefix Sum
   - [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  topics -  prefix sum, hashmap
@@ -38,6 +50,8 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
   - [ ] 
 
 ### Matrices
+  - [ ] [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
+  - [ ] 
 
 ### Sliding window/ Subarrays / Substrings
   - [ ]  [Subarray with Given Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
@@ -55,6 +69,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 ## Strings
 - [ ] [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
+- [ ] [Add strings]()
 
 ## Binary Search
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
@@ -75,6 +90,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 
 
 ## Stacks
+- [ ] [Exclusice Time of functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 ## Queues
 
 
@@ -86,6 +102,7 @@ Here are some Problems on DSA that i have arranged level wise and topic wise ; a
 ## Trees
   - [ ] [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
   - [ ] [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+  - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ## Graphs
 - [ ] [Find the town judge](https://leetcode.com/problems/find-the-town-judge)
